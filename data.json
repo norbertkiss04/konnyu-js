@@ -1,0 +1,34 @@
+[
+  {
+      "id": 1,
+      "title": "PHP alapok",
+      "category": "programozas",
+      "image": "./img/php.png",
+      "datum": "08-06-1995",
+      "items": ["Webfejlesztés", "Szerveroldal", "Laravel", "Régebbi technológia", "Adatbázis-kezelés"]
+  },
+  {
+      "id": 2,
+      "title": "jQuery használata",
+      "category": "programozas",
+      "image": "./img/jquery.webp",
+      "datum": "26-08-2006",
+      "items": ["DOM manipuláció", "Események kezelése", "AJAX hívások"]
+  },
+  {
+      "id": 3,
+      "title": "The Witcher",
+      "category": "sorozatok",
+      "image": "./img/witcher.jpg",
+      "datum": "20-12-2019",
+      "items": ["Geralt of Rivia", "Yennefer", "Ciri", "Szörnyek és mágia", "A Kontinens"]
+  },
+  {
+      "id": 4,
+      "title": "Black Mirror",
+      "category": "sorozatok",
+      "image": "./img/black_mirror.png",
+      "datum": "04-12-2011",
+      "items": ["Technológia és társadalom", "Disztópikus jövőképek", "Antológia formátum", "Etikai dilemmák"]
+  }
+]
